@@ -1,0 +1,70 @@
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versao_paralela\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.pdb
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\bin\Debug\SIMBA.exe.config
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\bin\Debug\SIMBA.exe
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\bin\Debug\SIMBA.pdb
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.Form1.resources
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.Properties.Resources.resources
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.exe
+C:\Users\ander\Documents\SIMBA_Git_versão_paralela_teste\SIMBA\obj\Debug\SIMBA.pdb

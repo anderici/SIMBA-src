@@ -1,0 +1,40 @@
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\bin\Release\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\bin\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA\SIMBA\obj\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\bin\Release\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\bin\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git\SIMBA\obj\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\bin\Release\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\bin\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git (versão paralela)\SIMBA\obj\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\bin\Release\SIMBA.exe.config
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\bin\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\bin\Release\SIMBA.pdb
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.csprojResolveAssemblyReference.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.Form1.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.Properties.Resources.resources
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.csproj.GenerateResource.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.exe
+C:\Users\ander\Dropbox\USP\Doutorado\SIMBA_Git_versão_paralela\SIMBA\obj\Release\SIMBA.pdb
